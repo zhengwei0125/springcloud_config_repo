@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: lagou-service-user
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://192.168.2.128:3306/studydb?useUnicode=true&characterEncoding=utf8
