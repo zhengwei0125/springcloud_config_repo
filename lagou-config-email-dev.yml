@@ -12,7 +12,7 @@ spring:
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl  #避免将驼峰命名转换为下划线命名
 app:
   email:
-    fromAddress: itgoodystudy@163.com
-    username: itgoodystudy@163.com
+    fromAddress: itgoodstudy@163.com
+    username: itgoodstudy@163.com
     password: OVIXXPNNKREVQOII
     smtpHost: smtp.163.com
