@@ -15,4 +15,4 @@ spring:
       request:
         max-times: 10
         during: 5000         
-        uri: /api/email/**
+        uri: /api/code/create
