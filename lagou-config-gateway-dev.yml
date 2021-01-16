@@ -15,4 +15,4 @@ spring:
       request:
         max-times: 10
         during: 600000         
-        uri: /api/code/create
+        uri: /api/code/create, /api/user/register
