@@ -13,6 +13,6 @@ spring:
   cloud: 
     gateway:
       request:
-        max-times: 10
+        max-times: 3
         during: 600000         
         uri: /api/code/create, /api/user/register
